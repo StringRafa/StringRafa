@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rafael souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-souza" height="30" width="40" /></a>
-<a href="https://fb.com/rafael jose de souza (rafa)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafael jose de souza (rafa)" height="30" width="40" /></a>
-<a href="https://instagram.com/rafa.j.souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafa.j.souza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafael-souza-0225a4220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-souza" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rafael.josedesouza.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafael jose de souza (rafa)" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rafa.j.souza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafa.j.souza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
